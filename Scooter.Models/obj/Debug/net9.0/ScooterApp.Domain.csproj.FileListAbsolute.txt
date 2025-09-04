@@ -1,0 +1,15 @@
+C:\utvikling\brights\C#\CP2025-09-04\Scooter.Models\bin\Debug\net9.0\ScooterApp.Domain.deps.json
+C:\utvikling\brights\C#\CP2025-09-04\Scooter.Models\bin\Debug\net9.0\ScooterApp.Domain.runtimeconfig.json
+C:\utvikling\brights\C#\CP2025-09-04\Scooter.Models\bin\Debug\net9.0\ScooterApp.Domain.dll
+C:\utvikling\brights\C#\CP2025-09-04\Scooter.Models\bin\Debug\net9.0\ScooterApp.Domain.pdb
+C:\utvikling\brights\C#\CP2025-09-04\Scooter.Models\obj\Debug\net9.0\ScooterApp.Domain.csproj.AssemblyReference.cache
+C:\utvikling\brights\C#\CP2025-09-04\Scooter.Models\obj\Debug\net9.0\ScooterApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\utvikling\brights\C#\CP2025-09-04\Scooter.Models\obj\Debug\net9.0\ScooterApp.Domain.AssemblyInfoInputs.cache
+C:\utvikling\brights\C#\CP2025-09-04\Scooter.Models\obj\Debug\net9.0\ScooterApp.Domain.AssemblyInfo.cs
+C:\utvikling\brights\C#\CP2025-09-04\Scooter.Models\obj\Debug\net9.0\ScooterApp.Domain.csproj.CoreCompileInputs.cache
+C:\utvikling\brights\C#\CP2025-09-04\Scooter.Models\obj\Debug\net9.0\ScooterApp.Domain.sourcelink.json
+C:\utvikling\brights\C#\CP2025-09-04\Scooter.Models\obj\Debug\net9.0\ScooterApp.Domain.dll
+C:\utvikling\brights\C#\CP2025-09-04\Scooter.Models\obj\Debug\net9.0\refint\ScooterApp.Domain.dll
+C:\utvikling\brights\C#\CP2025-09-04\Scooter.Models\obj\Debug\net9.0\ScooterApp.Domain.pdb
+C:\utvikling\brights\C#\CP2025-09-04\Scooter.Models\obj\Debug\net9.0\ScooterApp.Domain.genruntimeconfig.cache
+C:\utvikling\brights\C#\CP2025-09-04\Scooter.Models\obj\Debug\net9.0\ref\ScooterApp.Domain.dll
